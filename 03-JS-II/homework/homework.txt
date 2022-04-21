@@ -1,0 +1,8 @@
+for: es una expresion que utilizamos para repetir una o mas acciones una cantidad de veces.
+
+&&: Es un operardor booleano, como es el + en las operaciones matematicas, sirve para comparar dos resultados y determinar si es verdadero si uno o mas lo son.
+
+||: Es un operardor booleano, como es el + en las operaciones matematicas, sirve para comparar dos resultados y determinar si es falso si uno o mas lo son.
+
+
+!: Es Es un operardor booleano, como es el + en las operaciones matematicas, sirve para determinar el opuesto al valor dado, si es verdadero lo invierte a un falso.
