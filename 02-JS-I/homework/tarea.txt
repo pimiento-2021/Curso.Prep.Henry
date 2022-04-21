@@ -1,0 +1,9 @@
+Variables: Una variable es es tomar una palabra para reservarla y poder ingresar en ella informacion para ser utilizada luego
+
+Strings: Es una cadena de caracteres, como por ejemplo un nombre y siempre va entre comillas, es la forma del interprete de definirla como tal.
+
+Funciones: Una funcion es un "herramienta" que definimos que realice una accion que querramos y que podemos invocarla, llamarla, cuando necesitemos por medio de su nombre, contiene argumentos que son variables que le asignamos para ser usados dentro de esta funciones, puede tener varios. Podemos usar una "return" dentro de una funcion para que nos muestre algo, ya sea un valor, string, etc. es la forma que tenemos que obtener una devolucion de una funcion, para "verlo".
+
+Declaraciones: La declaracion IF que significa SI es para poder usar condiciones en una funcion si se cumple la condicion que queremos se realiza algo, por ejemplo una operacion matematica o que nos diga si es verdadero, si no se cumple realiza otra operacion o que nos diga que es falso por ejemplo.
+
+Valores booleanos: Pensemos en ellos como opciones que solo pueden ser 0 o 1, verdadero o falso. 
