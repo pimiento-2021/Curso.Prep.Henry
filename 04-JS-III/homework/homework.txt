@@ -1,0 +1,1 @@
+Array: Basicamente los array son una lista de elementos, estos pueden ser cualquier tipo de datos, desde numeros, strings, funciones, etc. Podemos ver la cantidad de elementos que contienen, que elementos, operar con ellos y de mas.
