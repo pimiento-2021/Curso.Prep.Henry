@@ -1,0 +1,3 @@
+prototype: Los portotipos es como una plantilla base que nos permite compartir metodos y propiedades entre diferentes objetos.
+
+Constructors (de Clases): Los constructor nos ayudan a crear objetos rapidamente que comparten caracteristicas, es decir, en vez de ir poniendo uno a uno los las keys, creamos una plantilla que el interprete reconoce y crea objetos en base a estas.
