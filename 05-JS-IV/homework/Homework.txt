@@ -1,0 +1,9 @@
+Objetos: Los objetos son similares a los array, es una coleccion de cualquier tipo de datos, pero los array solo tienen indices numericos, en cambio los objetos pueden tener "etiquetas" para el indice lo cual facilita la identificacion del dato. Esta "etiqueta" es la clave que identifica al dato.
+
+Propiedades: Son los datos de los objetos, que tienen dos partes las key, que son las "etiquetas" que hablabamos, la cual facilita saber de que tipo de dato estamos hablando. Y el value que es el valor del dato, ya sea un numero, una string, etc.
+
+Metodos: Los metodos es la forma de llamar a las funciones dentro de los objetos para poder realizar una accion.
+
+Bucle for..in: Sirve para recorrer un objeto pasando por cada una de sus propiedades para actuar sobre ellas de alguna manera
+
+Notacion de puntos vs notacion de corchetes: Ambos sirven para acceder a las propiedades de un objeto pero el valor entre corchetes puede ser calquier tipo de expresion, es decir podemos usar variables por ejemplo. En cambio con la notacion de puntos es lo que se escribe, no podriamos usar variable, pero es mas facil de escribir y mas rapido.
