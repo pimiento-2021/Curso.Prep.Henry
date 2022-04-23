@@ -1,0 +1,1 @@
+Funciones Callback: En español puede traducirse como “llamar de vuelta”. Las funciones es una función que recibe como argumento otra función y la ejecuta justo después de que haya ocurrido algo o se haya completado alguna tarea.
